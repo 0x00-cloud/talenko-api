@@ -1,0 +1,19 @@
+{
+  "name": "talenko-api",
+  "version": "1.0.0",
+  "description": "api for the talenko app (talenko is an app the connects pharmacist with different drug store owners ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0x00-cloud/talenko-api.git"
+  },
+  "author": "Yousef Meska",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/0x00-cloud/talenko-api/issues"
+  },
+  "homepage": "https://github.com/0x00-cloud/talenko-api#readme"
+}
